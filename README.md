@@ -5,5 +5,3 @@
 ### mpdb.tv formerly media-passion.org formerly passion-xbmc.org
 
 Automatically exported from code.google.com/p/passion-xbmc
-
-My old devs and contribs under nickname: Frost, Frostbox, Frostbox360
